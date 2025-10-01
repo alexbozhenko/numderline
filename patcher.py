@@ -100,7 +100,7 @@ languagesystem kana dflt;
 feature calt {{
     {decimal_sub}
 
-    sub @digits' @digits @digits @digits by @nd0;
+    sub @digits' @digits @digits @digits @digits by @nd0;
     sub @nd0 @digits' by @nd0;
 
     reversesub @nd0' @nd0 by @nd1;
