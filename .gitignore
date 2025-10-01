@@ -1,5 +1,5 @@
 out/*.otf
-out/*.ttf
+# out/*.ttf
 out/*.zip
 out/*.woff2
 mods.fea
